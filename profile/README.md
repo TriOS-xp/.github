@@ -1,3 +1,3 @@
 # TriOS
-## A Windows XP, 7, 8.1 10 Pro mod
+## A Windows XP, Vista (SP2) 7, 8.1 10 Pro mod
 coming soonTM
